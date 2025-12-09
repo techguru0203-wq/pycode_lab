@@ -7,26 +7,28 @@
 ## 📁 Included Scripts
 ###  1. league_table.py
 
-Implements a LeagueTable class that:
+-Implements a LeagueTable class that:
 
-Stores players
+-Stores players
 
-Tracks wins and scores
+-Tracks wins and scores
 
-Ranks them by score (with number of games as a tiebreaker)
+-Ranks them by score (with number of games as a tiebreaker)
 
-Example output:
+-Example output:
+```bash
 Chris
+```
 
 ### 2. icecream_machine.py
 
-Generates all combinations of:
+-Generates all combinations of:
 
-Ingredients
+-Ingredients
 
-Toppings
+-Toppings
 
-Great example of a Cartesian product using simple Python loops.
+-Great example of a Cartesian product using simple Python loops.
 
 Example output:
 ```bash
@@ -35,7 +37,7 @@ Example output:
 ### 3. sorted_search.py
 
 Implements: 
-```bash
+```text
 count_numbers(sorted_list, less_than)
 ```
 
