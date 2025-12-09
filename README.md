@@ -2,7 +2,7 @@
 
 #### pycode_lab contains five small Python programs, each focusing on a specific algorithmic problem or logic pattern. They require no external dependencies and run on any modern Python 3 interpreter.
 
-### Each script is self-contained, easy to read, and includes example usage at the bottom.
+#### Each script is self-contained, easy to read, and includes example usage at the bottom.
 
 ## 📁 Included Scripts
 ###  1. league_table.py
